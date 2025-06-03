@@ -52,18 +52,23 @@ password-generator/
 └── assets/
     └── images/
         └── (optional: any icons or background images)
-Technologies Used
-HTML5: For the basic structure of the web page.
-CSS3: For styling and layout.
-JavaScript (ES6+): For the core password generation logic and interactive elements.
-Contributing
+
+
+# Technologies Used
+* **HTML5:** For the basic structure of the web page.
+* **CSS3:** For styling and layout.
+* **JavaScript (ES6+):** For the core password generation logic and interactive elements.
+
+# Contributing
 Contributions are always welcome! If you have suggestions for improvements or new features, please feel free to:
 
-Fork the repository.
-Create a new branch (git checkout -b feature/YourFeature).
-Make your changes.
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/YourFeature).
-Open a Pull Request.
-License
+# Fork the repository.
+1. Fork the repository
+2. Create a new branch (git checkout -b feature/YourFeature).
+3. Make your changes.
+4. Commit your changes (git commit -m 'Add some feature').
+5. Push to the branch (git push origin feature/YourFeature).
+6. Open a Pull Request.
+
+# License
 This project is open source and available under the MIT License.
