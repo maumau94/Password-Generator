@@ -8,7 +8,7 @@ A simple and secure web-based password generator built with HTML, CSS, and JavaS
 * Installation
 * Folder Structure
 * Technologies Used
-* *ontributing
+* Contributing
 * License
   
 ## Features
@@ -42,7 +42,7 @@ cd Password-Generator
 
 # Folder Structure
 
-password-generator/
+──password-generator/
 ├── index.html
 ├── README.md
 ├── css/
